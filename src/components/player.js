@@ -39,17 +39,7 @@ const Player = () => {
             </ListGroup>
             </Card.Body>
         </Card>
-        <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="../public/images/mo sallah.jpg" />
-            <Card.Body>
-            <Card.Title>Mohammed Salah</Card.Title>
-            <ListGroup variant="flush">
-            <ListGroup.Item>Number: 11</ListGroup.Item>
-            <ListGroup.Item>Nationality: Egypt</ListGroup.Item>
-            <ListGroup.Item>Age: 31</ListGroup.Item>
-            </ListGroup>
-            </Card.Body>
-        </Card>
+       
     </div>
 
     )
